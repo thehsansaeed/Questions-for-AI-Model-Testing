@@ -47,7 +47,7 @@ The purpose of this repository is to:
 ## How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/ai-model-testing.git
+   [git clone https://github.com/yourusername/ai-model-testing.git](https://github.com/thehsansaeed/Questions-for-AI-Model-Testing.git)
    ```
 2. Use these questions to prompt AI models and record their responses.
 3. Analyze the responses to evaluate the accuracy and reasoning capabilities of the models.
