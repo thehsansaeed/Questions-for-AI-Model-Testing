@@ -1,0 +1,81 @@
+# Question for LLM Testing
+
+
+---------------------------------------
+    "which number is greater 9.11 or 9.9?", #logical
+    "how many r's in word strawberry?", # fetch data
+    "which number is greater 3.14 or π?", # comparison
+    "how many galaxies are there in the universe?", # analysis
+    "what is the capital of France?", # specific thing
+    "what is the largest planet in our solar system?", # specific thing
+    "Which mission was launched to explore the outer planets and study planetary atmospheres, moons, and interstellar space?", # general knowledge
+    "What is the speed of Voyager 1?", # updated feature
+    "What is the speed of Voyager 2?" # updated feature
+---------------------------------------
+
+
+# strawberry_prompt = "How many r's in strawberry?"
+# greater_value = "which number is greater 9.9 or 9.11?"
+# compare_values = "which number is greater 3.14 or π?"
+# guess_country_city = "Name a country whose name ends with 'lia' and tell me its capital city."
+# number_rhymes = "What number rhymes with the word used to describe a tall plant?"
+# DMAS_rule = "Solve this question : 8+(6×2)−(3+5)÷4"
+# guess = "how many galaxies are there in the universe?"
+# guess_country = "what is the capital of France?"
+# guess_planet = "what is the largest planet in our solar system?"
+# history = "Which mission was launched to explore the outer planets and study planetary atmospheres, moons, and interstellar space?"
+# mission = "What is the speed of Voyager 1?"
+# mission2 = "What is the speed of Voyager 2?"
+# logical_reasoning = "If man boils 2 eggs in 1 minute , how much time will take to boil 10 eggs?"
+# logical_reasoning = "How many months have 28 days?"
+# logical_reasoning = "Which is greater: the square root of 16 or the cube root of 27?"
+# Mississippi_prompt = "How many letters are there in the word "Mississippi"?
+# Calculation = "If a car travels 60 miles per hour, how far will it travel in 2 hours?"  # Answer: 120 miles
+# Time =  If a clock shows 3:15, what is the angle between the hour hand and minute hand?
+
+
+# Question 5: If a person has 3 apples and buys 2 more, how many apples does he have now?
+
+# Question 6: What is heavier, 1 kilogram of feathers or 1 kilogram of bricks?
+
+# Question 7: How many months have 28 days?
+
+# Question 8: If you have 3 red balls and 2 green balls, how many balls do you have in total?
+
+# Question 9: If you subtract 1 from 10, what is the result?
+
+# Question 10: Which is greater: the square root of 16 or the cube root of 27?
+
+# Question 11 : Question 14: What comes next in the sequence: 2, 4, 8, 16, ...?
+
+# Question 12 : A plane crashes on the border of the US and Canada. Where do they bury the survivors?
+
+
+# Prompts for Images:
+
+
+# "A cutting-edge research lab featuring scientists in sleek lab coats collaborating with advanced AI systems, surrounded by holographic displays showcasing data analysis and innovative prototypes."
+
+
+# "A modern studio setup with soundproofing panels and vibrant colored lighting. In the center, a young person with short black hair, wearing a black hoodie and a black cloth mask, sits at a desk with a laptop in front. A microphone on a boom arm and a pair of headphones are nearby. The person looks focused, possibly preparing for a recording or podcast."
+
+
+# "A modern conference room with a diverse team of professionals discussing a project, with digital screens displaying graphs and trends, while a virtual assistant provides real-time insights."
+
+
+# "An elegant dining experience set in a luxury restaurant with robotic servers, gourmet dishes beautifully plated, and ambient lighting that enhances the modern decor."
+
+# "A futuristic urban landscape showcasing sustainable architecture, with green rooftops, solar panels, and people engaging in eco-friendly transportation options."
+
+# "A sophisticated financial trading floor with high-tech monitors displaying live market data, traders analyzing trends, and AI-driven algorithms assisting in decision-making."
+
+# "An advanced healthcare facility where doctors and nurses utilize AI diagnostics and robotic surgery tools to provide innovative patient care."
+
+# "A digital art studio filled with artists using augmented reality tools to create immersive artworks, surrounded by vibrant colors and interactive installations."
+
+# "A high-tech manufacturing facility showcasing automated machinery working in harmony with skilled workers, highlighting the integration of AI in production."
+
+# "A stylish office space featuring an open layout, collaborative workstations, and advanced communication technologies, designed to foster creativity and innovation."
+
+# "A professional networking event held in a modern venue, with attendees engaging in discussions, augmented reality presentations, and interactive showcases of cutting-edge technology."
+
