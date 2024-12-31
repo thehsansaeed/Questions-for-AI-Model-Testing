@@ -56,7 +56,7 @@ The purpose of this repository is to:
 We welcome contributions! If you have additional questions that can challenge AI models or improve this repository, feel free to submit a pull request.
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE]([LICENSE](https://github.com/thehsansaeed/Questions-for-AI-Model-Testing/blob/main/LICENSE)) file for details.
 
 ## Contact
 For any questions or suggestions, please contact Ahsan Saeed at [Linkedin](https://www.linkedin.com/in/ahsensaeed/)
