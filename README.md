@@ -59,4 +59,4 @@ We welcome contributions! If you have additional questions that can challenge AI
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
-For any questions or suggestions, please contact [Your Name] at [Your Email Address].
+For any questions or suggestions, please contact Ahsan Saeed at [Linkedin](https://www.linkedin.com/in/ahsensaeed/)
